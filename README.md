@@ -20,11 +20,11 @@ Quickly and simply test animations in Unity during runtime.
    
 ![Alt text](/Images/LaneGingras_UnityTool_3.png?raw=true "Cover")
 
-5. Optionaly enable "Loop Animation" in the Inspector to make the selected animation play automatically and loop
+4. Optionaly enable "Loop Animation" in the Inspector to make the selected animation play automatically and loop
    
 ![Alt text](/Images/LaneGingras_UnityTool_4.png?raw=true "Cover")
 
-7. Run the scene, in game view use the Up and Down Arrow keys to change selected animation
-8. Press the P key to play the currently selected animation (if Loop Animation is enabled in the Inspector then animation will automatically play)
+5. Run the scene, in game view use the Up and Down Arrow keys to change selected animation
+6. Press the P key to play the currently selected animation (if Loop Animation is enabled in the Inspector then animation will automatically play)
    
 ![Alt text](/Images/LaneGingras_UnityTool_5.png?raw=true "Cover")
